@@ -1,6 +1,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dungbik&show_icons=true" alt="dungbik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungbik&layout=compact" /></a> |
 | ------------- | ------------- |
 
+![](https://komarev.com/ghpvc/?username=dungbik)
 ![](https://hit.yhype.me/github/profile?user_id=49610681)
 
 <!--
