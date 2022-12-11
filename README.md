@@ -2,7 +2,6 @@
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=dungbik)
-![](https://hit.yhype.me/github/profile?user_id=49610681)
 
 <!--
 **dungbik/dungbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
